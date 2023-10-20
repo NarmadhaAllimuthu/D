@@ -1,0 +1,41 @@
+/* div{
+    display: flex;
+    flex-wrap: wrap;
+    
+} */
+/* .col-sm-12{
+  height:470px !important;
+  width: 350px;
+} */
+  
+body{
+    background-color: darkslategrey!important;
+}
+
+.card{
+    background-color: slategrey!important;
+
+}
+
+.card-title{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-img-top{
+    width: 14rem;
+    height: 8rem;
+}
+
+
+#title{
+    background-color: black; 
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
