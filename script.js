@@ -19,7 +19,8 @@ for(var i=0;i<data1.length;i++){
   }
   
   const colLG4 = document.createElement('div');
-  colLG4.className = 'col-lg-4 col-sm-12';
+  // colLG4.className = 'col-lg-4 col-sm-12';
+  colLG4.className ="col-sm-6 col-md-4col-lg-4 col-xl-4";
  let countryName=data1[i].name; 
 
 colLG4.innerHTML=`<div class="card m-5">
