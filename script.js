@@ -22,7 +22,7 @@ for(var i=0;i<data1.length;i++){
   colLG4.className = 'col-lg-4 col-sm-12';
  let countryName=data1[i].name; 
 
-colLG4.innerHTML=`<div class="card m-5" ">
+colLG4.innerHTML=`<div class="card m-5">
 <div class="card-header text-center" >
 
 <h3 id="title" >${data1[i].name}</h3>
